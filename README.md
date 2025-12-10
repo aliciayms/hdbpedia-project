@@ -14,9 +14,8 @@ In Singapore's housing market, both buyers and sellers of resale HDB flats need 
 ## **1.3 Variables created**
 
 1. combined\_data\_2 \-\> cleaned data without hot-encoding and logging of values \-\> used for HDBPedia  
-2. combined\_data\_new \-\> partially cleaned data with hot-encoding   
-3. combined\_data\_3 \-\> cleaned data (with hot-encoding, removed duplicates) for manipulation  
-4. temporary\_data \-\> for machine learning model (for future works)
+2. combined\_data\_3 \-\> cleaned data (with hot-encoding, removed duplicates) for manipulation  
+3. temporary\_data \-\> for machine learning model (for future works)
 
 # **Data Cleaning**
 
